@@ -1,0 +1,1 @@
+This project was created in order to practice and demonstrate the fundamentals of HTML by practicing creating a recipe page that will include other html files that link together to display an interactive website.
