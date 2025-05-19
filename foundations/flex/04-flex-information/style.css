@@ -24,3 +24,22 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+.info{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  flex-flow:column;
+  gap:32px;
+}
+.img-desc{
+  display:flex;
+  gap:52px;
+  text-align:center;
+}
+.card{
+  display:flex;
+  flex-flow:column;
+  align-items:center;
+  max-width:200px;
+}
